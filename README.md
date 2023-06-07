@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adira Tandon.
+- 👀 I’m interested in coding, web development, and graphic design.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript, as well as Adobe Illustrator and Photoshop.
+- 💞️ I’m looking to collaborate on some fun coding projects or design projects to learn and grow my skills, particularly with a focus on creating websites!
+- 📫 How to reach me: You can email me at adira152tandon@gmail.com or message me on LinkedIn. I'm always open to making connections with others and sharing ideas!
